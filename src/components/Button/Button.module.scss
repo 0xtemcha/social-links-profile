@@ -1,0 +1,17 @@
+.link {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 12px;
+  gap: 8px;
+  background: var(--gray-700);
+  border-radius: 8px;
+  color: white;
+  text-decoration: none;
+  transition: all 0.65s ease;
+
+  &:hover {
+    background-color: var(--green);
+    color: var(--gray-700);
+  }
+}
