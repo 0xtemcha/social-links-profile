@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Link]()
-- Live Site URL: [Link]()
+- Solution URL: [Link](https://github.com/0xtemcha/social-links-profile)
+- Live Site URL: [Link](https://social-links-profile-dun-delta.vercel.app/)
 
 ### Built with
 
